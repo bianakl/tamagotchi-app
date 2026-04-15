@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#1e1b4b"/>
+
+  <!-- Egg body -->
+  <ellipse cx="16" cy="18" rx="8" ry="10" fill="#f5f0e8"/>
+
+  <!-- Egg shine -->
+  <ellipse cx="13" cy="13" rx="2" ry="3" fill="white" opacity="0.5"/>
+
+  <!-- Eyes -->
+  <circle cx="13" cy="17" r="1.5" fill="#1e1b4b"/>
+  <circle cx="19" cy="17" r="1.5" fill="#1e1b4b"/>
+
+  <!-- Eye shine -->
+  <circle cx="13.5" cy="16.5" r="0.5" fill="white"/>
+  <circle cx="19.5" cy="16.5" r="0.5" fill="white"/>
+
+  <!-- Beak -->
+  <polygon points="16,19.5 14.5,21.5 17.5,21.5" fill="#f97316"/>
+
+  <!-- Rosy cheeks -->
+  <circle cx="11" cy="20" r="1.5" fill="#f9a8d4" opacity="0.6"/>
+  <circle cx="21" cy="20" r="1.5" fill="#f9a8d4" opacity="0.6"/>
+
+  <!-- Little crack on egg -->
+  <polyline points="14,10 16,12 18,10" fill="none" stroke="#c9b89a" stroke-width="0.8" stroke-linecap="round"/>
+</svg>
